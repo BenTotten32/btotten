@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<!--Ben Totten, CTI-110-0008-->
+<meta charset="utf-8">
+<title>Tottenham Hotspur FC</title>
+<link href="Headings.css" rel="stylesheet" type="text/css">
+	<meta name="keywords" content="Tottenham Hotspur, Tottenham, Hotspur, Tottenham Hotspur FC, Tottenham Hotspur Football Club, THFC, Spurs, Lilywhites, Harry Kane, Son Hueng-Min, Kane and Son">
+<meta name="description" content="Tottenham Hotspur is an English football club located in London, England">
+</head>
+
+<body>
+	<h1 style="text-align: center; font-size: 36px;">Tottenham Hotspur Football Club</h1>
+
+
+<p style="text-align: center">&nbsp;</p>
+<p style="text-align: center"><a href="index.html">Home</a> - <a href="roster.html">Roster</a> - <a href="kaneandson.html"> Kane and Son</a> - <a href="fixtures.html">Upcoming Fixtures</a> - <a href="harry.html">Harry Kane</a> - <a href="NLD.html">North London Derby</a> - <a href="index code.txt">About Me</a></p>
+
+<p style="text-align: center">
+	Welcome to the Tottenham Hotspur Football Club Fan page! Tottenham Hotspur is an English Football club that is based in London, England. Commonly refered to as Spurs, Tottenham currently competes in the Premier League which is the highest level of English Football. Spurs currently play their home games in the grand stadium called Tottenham Hotspur Stadium in North London. Tottenham have several nicknames such as Tottenham or Spurs, or sometimes the Lilywhites; which refers to the signature white jerseys which Tottenham wear at home games.
+</p>
+
+<p style="text-align: center">
+Tottenham Hotspur FC was founded in 1882 by a group of school boys whom wanted to play sports during the winter months, when cricket couldnt be played. Tottenham was one of the five founding clubs that founded the Premier League, which became the highest tier of English Football. Tottenham Hotspur is considered one of the "Big 6" of English football which include other major English clubs: Manchester United, Liverpool, Chelsea, Manchester City, and our North London rivals: Arsenal.
+</p>
+
+<p style="text-align: center">
+Tottenham Hotspur are a long standing and proud football club. Tottenham won major trophies starting in 1960's when Jimmy Greaves joined the club, this era of the early 60's is considered by most to be Tottenham's glory years. This was the last time that Tottenham won the top flight of English football.
+	Yet even with a large fanbase and large market in London, Spurs cannot seem to win trophies, which are an essential part of being a big club in English and World football. But with stars such as Harry Kane and Son Hueng-Min Tottenham seem to be on the edge of winning trophies and bringing glory to Tottenham.
+</p>
+
+<p style="text-align: center">&nbsp;</p>
+<p style="text-align: center">&nbsp;</p>
+
+<p style = "text-align: left">Contact Us: <a href="mailto:daniellevy@thfc.com>Email</a> - or write to us at 782 High Rd, London n17 0BX, United Kingdom
+</p>
+
+<p style="text-align: left">Last Updated: 
+</p>
+
+</body>
+</html>
+
+<!--This is my own file and I typed everything manually, Totten-->
